@@ -7,7 +7,6 @@ int main(){
   int x,t=3;
   cin >> x;
   while(x>0){
-    // x-=next_level;
     height+=1;
     counter+=height;
     x-=counter;
