@@ -6,6 +6,10 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
+/*
+    Category: Data Structure
+*/
 class Solution {
 public:
     ListNode* findAddr(ListNode* head, int counter){

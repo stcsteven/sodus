@@ -8,7 +8,9 @@ public:
         Nb. http://www.cplusplus.com/reference/algorithm/lower_bound/
 
         Consider the following example -> array = [1,2]; target = 2
-        By implementing the range from 0 to array.size(), the mid value will be 1 instead of 0 (when u use array.size()-1)  
+        By implementing the range from 0 to array.size(), the mid value will be 1 instead of 0 (when u use array.size()-1) 
+
+        Category: Searching, Binary Search 
     */
 
     int lowerBound(vector<int>& nums, int target){

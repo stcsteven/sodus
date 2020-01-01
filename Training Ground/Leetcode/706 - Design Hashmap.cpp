@@ -1,3 +1,7 @@
+/*
+    Category: Data Structure
+*/
+
 class Node{    
 public:
     int key, value;
